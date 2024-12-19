@@ -6,7 +6,7 @@ import requests
 import json
 
 # Import for db connectivity
-from dbutils import appreqs, dbread
+from dbutils import appreqs, dbread, app_rearrange
 from apputils.typewriter_effect import stream_data
 
 with open('dummylogin_creds.json', 'r') as file:
@@ -48,7 +48,7 @@ with tab1:
 
     uploaded_image = st.file_uploader(label='Upload an image of your teeth', type=['jpg', 'jpeg', 'png'])
     description = st.text_area(
-        label="Describe your problem here(Max 300 characters)"
+        label="Desription", placeholder="Describe your problem here (Max 300 characters)"
     )
 
     check_results = st.button(label="Check results", type="primary")
@@ -138,12 +138,16 @@ with tab2:
                 st.session_state.doctor_login_status = False
                 st.session_state.sidebar_display = True
                 st.rerun(scope="app")
-
-
         
         dash = st.button(label="See dashboard", type='secondary')
         if dash:
-            st.write(dbread.display_db())
+            df = dbread.display_db()
+            sorted_db = app_rearrange.sort_db(df=df)
+            st.write(df)
+
+            st.markdown('### :orange[Appointment list:]')
+            st.write("The whole record of appointments has been rearranged like this, you can see the patients in this order:")
+            st.write(sorted_db)        
 
     
 
