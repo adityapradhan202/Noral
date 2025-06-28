@@ -9,5 +9,5 @@ Go through this presentation to understand the real world problem statement and 
 **Also don't forget to watch the video recording mentioned above.**
 
 ### Overal workflow:
-<img src="https://drive.google.com/file/d/1wiUBw4eZD5K76ordNcpR2LDWaftNF4yx/view">
+![workflow](https://github.com/adityapradhan202/Noral/blob/main/readme_images/Copy%20of%20pe-1%20PPT%20updated%20R2.png)
 
