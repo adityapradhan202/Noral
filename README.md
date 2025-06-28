@@ -3,3 +3,7 @@ Noral is an AI driven oral healthcare appointment system. It's a web application
 
 ### 🎥 Video Recording:
 To see the working of this project you can checkout this video ➡️ [Noral Walkthrough](https://drive.google.com/file/d/1MZ5s4q2UaHbkCdMW069P23HlBUsFhwl6/view?usp=sharing)
+
+### Project PPT:
+Go through this presentation to understand the real world problem statement and it's solution ➡️ [Presentation](https://www.canva.com/design/DAGrok7CTHk/0eUHwfpAI9X-KzyUkecNCQ/view?utm_content=DAGrok7CTHk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=haa1e633909)  
+**Also don't forget to watch the video recording mentioned above.**
