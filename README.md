@@ -11,3 +11,6 @@ Go through this presentation to understand the real world problem statement and 
 ### Overal workflow:
 ![workflow](https://github.com/adityapradhan202/Noral/blob/main/readme_images/Copy%20of%20pe-1%20PPT%20updated%20R2.png)
 
+### Guide for running this on local machine:
+
+
