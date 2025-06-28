@@ -7,3 +7,7 @@ To see the working of this project you can checkout this video ➡️ [Noral Wal
 ### Project PPT:
 Go through this presentation to understand the real world problem statement and it's solution ➡️ [Presentation](https://www.canva.com/design/DAGrok7CTHk/0eUHwfpAI9X-KzyUkecNCQ/view?utm_content=DAGrok7CTHk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=haa1e633909)  
 **Also don't forget to watch the video recording mentioned above.**
+
+### Overal workflow:
+![workflow](https://drive.google.com/file/d/1wiUBw4eZD5K76ordNcpR2LDWaftNF4yx/view?usp=sharing)
+
